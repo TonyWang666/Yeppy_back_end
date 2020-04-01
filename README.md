@@ -1,16 +1,17 @@
-Yeppy_back_end
+# Yeppy_back_end
 Backend for the Content-based Personal Restaurant Recommendation system 
 
-Yeppy Description: 
-A full-stack project with frontend using React.js and backend using Java, Rest API, Postgresql
+# Yeppy Description: 
+A full-stack project with frontend using React.js and backend using Java, Rest API, Postgresql.
+The user are able to use this system to find their favorite restauraunts or events nearby.
 
-How to run?
+# How to run?
 Using Tom-cat to connect the server to database. 
 You can use Datagrid to serve as a database.
 Open both the front-end and backend. (Front-end link is: https://github.com/TonyWang666/Yeppy_front_end.git)
 After that, you can access front-end.
 
-Below are the script to Create Tables in DataGrid for Server:
+# Below are the script to Create Tables in DataGrid for Server:
 
 CREATE SCHEMA yeppy;
 SET search_path TO yeppy;
